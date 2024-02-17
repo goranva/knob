@@ -5,7 +5,7 @@ To use the LookAndFeel you need to create a JTLookAndFeel
 
 ```JTLookAndFeel jtLookAndFeel;```
 
-Then creat a rotary slider and use set the look and feel
+After that, creat a rotary slider and use set the look and feel
 
 ```Slider slider;```
 
